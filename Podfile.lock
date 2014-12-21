@@ -1,0 +1,19 @@
+PODS:
+  - CRuby (0.1.0)
+
+DEPENDENCIES:
+  - CRuby (from `https://github.com/xord/cruby`)
+
+EXTERNAL SOURCES:
+  CRuby:
+    :git: https://github.com/xord/cruby
+
+CHECKOUT OPTIONS:
+  CRuby:
+    :commit: 8fef44cfad24b2c5c674b8c5568ad367314ace14
+    :git: https://github.com/xord/cruby
+
+SPEC CHECKSUMS:
+  CRuby: 826baf1ffbc00d8f35c0533f0bb9ad74b8f6b429
+
+COCOAPODS: 0.35.0
