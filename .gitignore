@@ -1,0 +1,6 @@
+*~
+*.xcworkspace
+*.xcuserdatad
+
+.DS_Store
+Pods/
