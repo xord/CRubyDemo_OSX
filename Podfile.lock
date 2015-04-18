@@ -10,10 +10,10 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   CRuby:
-    :commit: f635d3eabddf55b5440b0344a9f73d448f519d2a
+    :commit: 8f21ff52f4f40a5714764df1507fe00bdea711f6
     :git: https://github.com/xord/cruby
 
 SPEC CHECKSUMS:
-  CRuby: 1ac1262b42a9b1ad057aef42a55af589fcfbec68
+  CRuby: 9e7bb4009542f1056b3c2e02608fae2e8c7ceb33
 
 COCOAPODS: 0.35.0
