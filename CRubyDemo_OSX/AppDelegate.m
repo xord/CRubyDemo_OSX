@@ -15,7 +15,4 @@
 	NSLog(@"result: %@", string);
 }
 
-- (void)applicationWillTerminate:(NSNotification *)notification {
-}
-
 @end
